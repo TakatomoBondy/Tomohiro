@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TakatomoBondy/Tomohiro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome to Tomohior Pages
 
 ```markdown
-Syntax highlighted code block
+# 自己紹介
 
-# Header 1
-## Header 2
-### Header 3
+- 氏名：高橋朋宏 　TakahashiTomohiro 
+- 生年月日：2000年6月4日
+- 所属：[開志専門職大学](https://kaishi-pu.ac.jp/)情報学部2年
 
-- Bulleted
-- List
+## 趣味
+- 歴史研究　主に1500年前後の関東地区　　YouTubeチャンネル[YUKIMURA CHANNEL](https://www.youtube.com/c/YUKIMURACHANNEL)を参照
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TakatomoBondy/Tomohiro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 学校活動
+- 音楽サークル「BONDY」を創設、運営
+　　　　　　メンバー18名、[第1回学園祭](https://kaishi-pu.ac.jp/touka-festival/)においてはステージライブを行った
+      
+#### 問い合わせ
+　　　　　　　　　　20120060@kaishi-pu.ac.jp
